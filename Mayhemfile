@@ -1,0 +1,6 @@
+project: rnshah9/mayhem-mazucc
+target: mazcc
+
+cmds:
+  - cmd: /MazuCC/mzcc @@
+    filepath: /test.c
