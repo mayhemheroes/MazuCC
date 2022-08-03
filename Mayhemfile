@@ -2,5 +2,4 @@ project: mazucc
 target: mzcc
 
 cmds:
-  - cmd: /MazuCC/mzcc /test.c
-    filepath: /test.c
+  - cmd: /mzcc @@
