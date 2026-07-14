@@ -1,0 +1,5 @@
+project: mazucc
+target: mzcc
+
+cmds:
+  - cmd: /mzcc @@
